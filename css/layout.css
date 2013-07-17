@@ -1,0 +1,47 @@
+/*othis is index*/
+.editMR,.createMR{
+	text-align: center;
+	margin:auto;
+	width:100%;
+	min-width:500px;
+	font-size:70px;
+}
+.indexContext{
+	min-width:450px;
+	height:80%;
+	margin:auto;
+	margin-top:5%;
+	width:50%;
+}
+/*This is search*/
+.searchForm{
+	margin:auto;
+	margin-top:5%;
+	width:80%;
+	min-width:300px;
+}
+.searchText{
+	width:100%;
+	height:40px;
+	font-size:36px;
+}
+.searchButton{
+	float:right;
+	font-weight: normal;
+	font-size:22px;
+}
+.searchLabel{
+	color:#1c94c4;
+	font-size:30px;
+}
+
+
+
+
+
+
+
+/*this is public*/
+a{
+	text-decoration:none;
+}

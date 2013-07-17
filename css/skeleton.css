@@ -1,0 +1,23 @@
+
+
+
+@media only screen 
+and (max-width : 700px){
+	.editMR,.createMR{
+		font-size:36px;
+		min-width:400px;
+	}
+
+
+}
+@media only screen 
+and (min-width : 701px)
+and (max-width : 1200px){
+	.editMR,.createMR{
+		font-size:56px;
+		min-width:500px;
+	}
+
+
+
+}
